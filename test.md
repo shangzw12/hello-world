@@ -25,10 +25,11 @@ sadasdassssssssssss
 
 >	dsadasdasd
 
-this is a [link](www.baidu.com) test
+this is a [link](https://www.baidu.com)rtest
 
 this is a [link_test][link1]hahaha
 [link1]: www.baidu.com
+
 
 
 
